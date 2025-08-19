@@ -1,0 +1,1 @@
+export { default } from "file:///home/princess/projects/vue-3/Iamcj./node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
