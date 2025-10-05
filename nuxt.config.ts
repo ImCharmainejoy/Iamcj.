@@ -80,11 +80,11 @@ export default defineNuxtConfig({
         configFile: 'assets/settings.scss',
       },
     },
-  },
-  theme: {
-    dark: false,
-    colors: {
-      primary: '#ff0000'
-    }
   }
+  // theme: {
+  //   dark: false,
+  //   colors: {
+  //     primary: '#ff0000'
+  //   }
+  // }
 })
